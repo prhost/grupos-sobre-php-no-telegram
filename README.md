@@ -45,6 +45,11 @@
 (http://telegram.me/magentobr)
 
 
+###### Opencart Brasil 🛍: @opencartbrasil
+[http://telegram.me/opencartbrasil]
+(http://telegram.me/opencartbrasil)
+
+
  **Grupo do PHP Brasil** : @phpbrasil 
  [http://telegram.me/PHPBrasil]
  (http://telegram.me/phpbrasil) 
